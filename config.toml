@@ -23,10 +23,10 @@ enableRobotsTXT = true
   customCSS = true
 
   # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
-  facebook = ""
+  twitter = "j7yplt1"
+  linkedin = "j7yplt1"
+  github = "j7yplt1"
+  facebook = "j7yplt1"
 
   # Copyright and theme author credit in footer
   copyright = false
